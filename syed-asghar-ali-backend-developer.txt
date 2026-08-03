@@ -1,0 +1,77 @@
+SYED ASGHAR ALI
+Backend Developer
+Bahawalpur, Punjab, Pakistan
++92 303 7170785 | asgharialofficial20@gmail.com
+linkedin.com/in/syed-asghar-ali | github.com/syed-asghar-ali
+
+SUMMARY
+Backend Developer with 2+ years of professional experience developing scalable backend
+systems, REST APIs, automation solutions and enterprise applications using Python, Django,
+Django REST Framework, FastAPI, PostgreSQL, MySQL, Redis, Docker and Selenium. Experienced
+in production-grade APIs, database-driven applications, authentication systems, automation
+workflows and third-party integrations, including browser and desktop automation for
+enterprise clients.
+
+CORE FOCUS
+Clean Architecture | REST API Development | Performance Optimization | Database Design
+Authentication & Authorization | Automation | Problem Solving | Team Collaboration
+
+TECHNICAL SKILLS
+Languages:        Python, SQL
+Backend:          Django, Django REST Framework, FastAPI
+Databases:        PostgreSQL, MySQL, Redis
+Automation:       Selenium, Browser Automation, Desktop Automation, RPA Automation
+DevOps & Tools:   Docker, Git, GitHub, Linux, VS Code, PyCharm
+API:              REST API, JWT Authentication, Swagger/OpenAPI
+Soft Skills:      Problem Solving, Team Collaboration, Communication, Analytical Thinking
+
+EXPERIENCE
+Backend Developer — Enigmatix Software House (2024 - Present)
+- Developed scalable REST APIs using Django REST Framework and FastAPI
+- Built secure authentication and authorization systems
+- Designed and optimized PostgreSQL and MySQL databases
+- Integrated third-party APIs and external services
+- Improved backend performance and application reliability
+- Collaborated with frontend developers and QA teams
+- Fixed production bugs and implemented new backend features
+- Worked with Git, GitHub, Docker, Redis and Linux environments
+- Developed browser and desktop automation solutions using Selenium and Python
+
+Tele Sales Representative — Zameen.com (2022 - 2024)
+- Created effective customer communication and sales strategies
+- Built long-term client relationships and consistently achieved sales targets
+- Delivered exceptional customer service and helped drive business growth
+
+Customer Service Agent — Citizen Contact Center (2021 - 2022)
+- Managed inbound customer calls and resolved issues efficiently
+- Maintained high customer satisfaction with strong communication skills
+
+Sales Service Agent — Milvik (BIMA) Mobile Pakistan (2020 - 2021)
+- Achieved and exceeded monthly sales targets, contributing to revenue growth
+- Delivered excellent customer service and maintained consistent performance
+
+PROJECTS
+Royal Cloud — E-commerce backend (Python, Django, DRF, PostgreSQL, Redis, Docker)
+  JWT authentication, product management, categories, orders, inventory, payments
+  integration, admin dashboard, API documentation, performance optimization.
+
+TCN1 — Eligibility Verification Automation, Thoughtful.ai (Automation Developer)
+  Enterprise healthcare automation for insurance eligibility verification with Python and
+  Selenium across portals including Valant, Availity, Optum, Cigna, UMR, GEHA, Carelon,
+  Humana, Molina, Tufts and UPMC. Multi-portal login automation, data extraction,
+  exception handling and production support.
+
+LGH1 — Claim Processing AI Agent, Thoughtful.ai (Automation Developer)
+  AI-powered claim processing automation: agent development, workflow design, deployment
+  automation and production maintenance. Python, Selenium, Git, CI/CD.
+
+EDUCATION
+MS in Information Technology — University of Education, Lahore (2018 - 2020)
+BSc — The Islamia University of Bahawalpur (2016 - 2018)
+
+LANGUAGES
+Urdu (Fluent) | Saraiki (Fluent) | Punjabi (Fluent) | English (Professional working proficiency)
+
+CERTIFICATIONS
+Experience Letter — Enigmatix Software House (Backend Developer)
+Experience Letter — Zameen.com (Tele Sales Representative)
